@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListaContatos</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="number_exemple">+00 00 0000-0000</string>
+    <string name="menu_01">Menu_Test_01</string>
+    <string name="menu_02">Menu_Test_02</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
